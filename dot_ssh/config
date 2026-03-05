@@ -1,0 +1,12 @@
+Host lohi
+  HostName lohi.onald.net
+  User ubuntu
+
+Host ksca
+  HostName ksca.onald.net
+  User ubuntu
+
+Host ksfr
+  HostName ksfr.onald.net
+  User ubuntu
+
